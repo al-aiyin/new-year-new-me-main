@@ -1,0 +1,82 @@
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.center-right {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    size: 65px;
+}
+.btn-primary{
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 0;
+}
+.img-women{
+    position: absolute;
+    width: 569px;
+    height: 723.3px;
+    left: 20px;
+    top: 939px;
+    margin-bottom: 20px;
+}
+.side-text{
+    position: absolute;
+    width: 425px;
+    height: 392px;
+    left: 753px;
+    top: 1186px;
+    margin-bottom: 20px;
+}
+.my-plans{
+    margin-top: 900px;
+    margin-left: 600px;
+}
+.skill-container{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 30px;
+}
+.watch{
+    margin-left: 52px;
+}
+.watch{
+    position: relative;
+    text-align: center;
+    color: rgb(208, 67, 67);
+}
+.watch-text{
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    size: 65px;
+}
+.contact .contact-title{
+    text-align: left;
+    color: aliceblue;
+    text-align: 10px;
+    margin: 50px;
+}
+.contact{
+    display:flex;
+    gap: 180px;
+    background-color: black;
+}
+.contact, textarea{
+    margin-bottom: 24px;
+    border: 0;
+    padding: 18px 30px;
+}
+input{
+    height: 60px;
+}
+input[text]{
+    margin-bottom: 2px;
+}
